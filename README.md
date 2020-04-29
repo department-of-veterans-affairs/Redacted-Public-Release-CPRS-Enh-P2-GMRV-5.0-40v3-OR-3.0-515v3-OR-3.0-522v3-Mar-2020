@@ -1,2 +1,4 @@
 # Redacted-Public-Release-CPRS-Enh-P2-GMRV-5.0-40v3-OR-3.0-515v3-OR-3.0-522v3-Mar-2020
 Repository containing the CIF submission for CPRS Enhancements Phase 2, GMRV*5.0*40v3, OR*3.0*515v3, OR*3.0*522v3, OR*3.0*524v1, FH*5.5*53v1 received March 2020.
+
+CPRS (Computerized Patient Record System) provides an integrated patient record system for clinicians, managers, QA (Quality Assurance) staff, and researchers. The primary goal of CPRS is to provide a fast and easy-to-use application that provides providers information needed in the clinical workflow process. CPRS EP2 will implement NRSs centering on the Consults, Ordering, Alerts, Notifications, and clinical decsion supportfunctionality. The backlog of NSRs is currently being prioritized for the CPRS EP2 project. Additionally, Patient Safety /Remedy tickets will be resolved.
